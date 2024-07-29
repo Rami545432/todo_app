@@ -1,6 +1,6 @@
 # todo_app
 
-A new Flutter project.
+My frist app in GitHub
 
 ## Getting Started
 
